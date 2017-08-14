@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacialDetection", "FacialDetection\FacialDetection.csproj", "{9ABDC0DC-3047-4184-8F3C-07EFF3DE1656}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacialDetection.Services", "FacialDetection.Services\FacialDetection.Services.csproj", "{863667BF-39C6-45B6-B4BF-FB713134BEFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacialDetection.DataObjects", "FacialDetection.DataObjects\FacialDetection.DataObjects.csproj", "{45689ED0-0934-4ABB-82E0-35747BDD2B54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{9ABDC0DC-3047-4184-8F3C-07EFF3DE1656}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ABDC0DC-3047-4184-8F3C-07EFF3DE1656}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ABDC0DC-3047-4184-8F3C-07EFF3DE1656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863667BF-39C6-45B6-B4BF-FB713134BEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863667BF-39C6-45B6-B4BF-FB713134BEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863667BF-39C6-45B6-B4BF-FB713134BEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863667BF-39C6-45B6-B4BF-FB713134BEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45689ED0-0934-4ABB-82E0-35747BDD2B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45689ED0-0934-4ABB-82E0-35747BDD2B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45689ED0-0934-4ABB-82E0-35747BDD2B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45689ED0-0934-4ABB-82E0-35747BDD2B54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
