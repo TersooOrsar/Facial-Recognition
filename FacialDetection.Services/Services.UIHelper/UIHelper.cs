@@ -14,7 +14,7 @@ namespace FacialDetection.Services.Services.UIHelper
     /// <summary>
     /// UI Helper Functions
     /// </summary>
-    internal static class UIHelper
+    public static class UIHelper
     {
         #region Methods
         /// <summary>
